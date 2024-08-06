@@ -1,0 +1,5 @@
+server:
+  port: 9812
+spring:
+  application:
+    name: jenkis-demo-first
