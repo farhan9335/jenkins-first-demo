@@ -20,7 +20,7 @@ public class JenkisDemoFirstApplication {
 	
 	@PostConstruct
 	public void initialization() {
-		logger.info("<================Starting to execute main method====================>");
+		logger.info("<================Starting to execute main initialization() ====================>");
 	}
 
 }
